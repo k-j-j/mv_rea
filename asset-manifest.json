@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mv_rea/static/css/main.3cdd7a0e.css",
+    "main.js": "/mv_rea/static/js/main.4cfaf4e0.js",
+    "index.html": "/mv_rea/index.html",
+    "main.3cdd7a0e.css.map": "/mv_rea/static/css/main.3cdd7a0e.css.map",
+    "main.4cfaf4e0.js.map": "/mv_rea/static/js/main.4cfaf4e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cdd7a0e.css",
+    "static/js/main.4cfaf4e0.js"
+  ]
+}
